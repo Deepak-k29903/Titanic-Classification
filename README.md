@@ -4,8 +4,8 @@ Built a predictive model to determine the survival for passangers on Titanic usi
 
 Process :
 
-Data Exploration
-Data cleaning
-Feature Engineering
-Model Building
-Model Evaluation
+* Data Exploration
+* Data cleaning
+* Feature Engineering
+* Model Building
+* Model Evaluation
